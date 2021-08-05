@@ -1,5 +1,5 @@
 # Multi-teachers-Knowledge-Distillation
-Distilling knowledge from ensemble of multiple teachers to student with multi-head
+Distilling knowledge from ensemble of multiple teacher networks to student network with multi-head
 
 ## Reference Papers:
 1. Hydra: Preserving Ensemble Diversity for Model Distillation (https://arxiv.org/abs/2001.04694)
